@@ -1,6 +1,6 @@
 # 5 stage pipeline implementation of RISC-V 32I Processor.
 
-In this repository I have implemented 5 stage Pipelined processor which is actually the conversion of my previous single cycle implementation of processor into pipeline. Link to Previous single cycle implementation is given as: https://github.com/EmJunaid/RiscV-Single-Cycle-Processor.git.
+In this repository I have implemented 5 stage Pipelined processor which is actually the conversion of my previous single cycle implementation of processor into pipeline. Link to Previous single cycle implementation is given as: [RV32I Single Cycle Processor](https://github.com/Ammar-10xe/RISCV-32I-Single-Cycle-Processor)
 
 In case of pipelined implementation what we do is that we divide our instruction into multiple stages and in case of 5 stage pipelined implementation we will offcourse divide the instruction into 5 different stages. Five different stages are given as:
 
